@@ -34,3 +34,9 @@ Altura <- 6
 AreaTriangulo <- Base*Altura/2
 ```
 
+## Área rectángulo
+
+
+```{r}
+AreaRectangulo <- Base*Altura
+```
