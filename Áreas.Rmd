@@ -24,3 +24,13 @@ r <- 0.5
 Lado <- 3
 AreaCuadrado <- Lado^2
 ```
+
+## Área triángulo
+
+
+```{r}
+Base <- 4
+Altura <- 6
+AreaTriangulo <- Base*Altura/2
+```
+
